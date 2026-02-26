@@ -1,4 +1,4 @@
-# WhatsApp Baileys
+# Vynex Baileys V2.0
 
 <p align="center">
   <img src="https://d.top4top.io/p_369115xag1.jpg" alt="Thumbnail" />
